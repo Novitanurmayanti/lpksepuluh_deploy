@@ -19,12 +19,12 @@ navbar = st.sidebar.selectbox(
 if navbar == 'Home' :
     st.title('Kalkulator IMT dan Cek Kadar Gula Darah Sesuai Usia')
     st.write('Dibuat oleh: ')
-    st.subheader('Kelompok 11')
+    st.subheader('Kelompok 10')
     st.write('''
     Harissa Hurulaini (2360138) \n
     Jalaludin Muhamad Akbar (2360150) \n
     Kayla Pramudewi Yudha (2360155) \n
-    Nadya Aprilya Nurwita Putri (22360198)\n
+    Nadya Aprilya Nurwita Putri (2360198)\n
     Novita Nurmayanti (2360216) ''')     
 
 if navbar == 'Kalkulator IMT' :
