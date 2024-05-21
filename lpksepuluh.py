@@ -7,7 +7,7 @@ st.set_page_config(
 st.header('PEDULI SEHAT', divider='grey')
 st.image('welcomebg.jpg')
 st.write ('''
-hallo users, selamat datang di aplikasi web project kelompok 11!! \n
+hallo users, selamat datang di aplikasi web project kelompok 10!! \n
 Web ini dibuat untuk memudahkan kamu dalam mendapatkan informasi terkait indeks massa tubuh kamu sehingga kamu bisa mengetahui informasi mengenai kondisi tubuh saat ini, resiko yang mungkin terjadi dan kamu akan mendapatkan saran untuk mengatasi resikonya. Web ini juga dibuat untuk memudahkan kamu dalam mendapatkan informasi mengenai rentang kadar gula darah sesuai usia kamu saat ini. \n
 SELAMAT MENCOBA <3.
 ''')
